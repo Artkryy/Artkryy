@@ -2,7 +2,7 @@
 
 ## Technology stack
 
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpyMnZmM2d5c2pzb3Y2YmNleW5vamtwemRwNTRhZnE1aWUxcnJ5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpyMnZmM2d5c2pzb3Y2YmNleW5vamtwemRwNTRhZnE1aWUxcnJ5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="500" height="500" />
 
 
 **Back-end**
