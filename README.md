@@ -20,9 +20,9 @@
 **Tools**
 
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![GSAP](https://img.shields.io/badge/-GSAP-green?style=flat-square&logo=gsap&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-pink?style=flat-square&logo=bootstrap&logoColor=white)
-![GreenSock](https://img.shields.io/badge/-GreenSock-green?style=flat-square&logo=greensock&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-009639?style=flat-square&logo=gsap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-red?style=flat-square&logo=bootstrap&logoColor=white)
+![GreenSock](https://img.shields.io/badge/-GreenSock-009639?style=flat-square&logo=greensock&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
