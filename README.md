@@ -9,21 +9,20 @@
 
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=nextdotjs)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/DRF-red?style=flat-square&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=tailwindcss)
-![HML5](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=css)
-![SCSS](https://img.shields.io/badge/-Beanie-FF6F00?style=flat-square&logo=sass&logoColor=white)
-![JavaScriptES6+](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![HML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css)
+![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass&logoColor=white)
+![JavaScriptES6+](https://img.shields.io/badge/-JavaScriptES6+-black?style=flat-square&logo=javascript)
 
 
 **Tools**
 
-![VSCode](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
-![Figma](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=figma)
-![GSAP](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=gsap&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=bootstrap&logoColor=white)
-![GreenSock](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=greensock&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![GSAP](https://img.shields.io/badge/-GSAP-green?style=flat-square&logo=gsap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-pink?style=flat-square&logo=bootstrap&logoColor=white)
+![GreenSock](https://img.shields.io/badge/-GreenSock-green?style=flat-square&logo=greensock&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -34,4 +33,4 @@
 **Frameworks**
 
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=nextdotjs)
-![React](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
